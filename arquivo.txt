@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+slc
+>>>>>>> ccae290 (modificação do arquivo.txt)
 Olá mundo!!!
 =======
 Olá mundo!
